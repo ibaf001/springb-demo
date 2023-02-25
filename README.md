@@ -1,1 +1,1 @@
-# springb-demo
+# springb-demo  [![CircleCI](https://dl.circleci.com/status-badge/img/gh/ibaf001/springb-demo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ibaf001/springb-demo/tree/main)
