@@ -10,6 +10,6 @@ public class OtherTest {
 
     @Test
     void exampleOne() {
-        assertThat(1 + 1, is(3));
+        assertThat(1 + 1, is(2));
     }
 }
