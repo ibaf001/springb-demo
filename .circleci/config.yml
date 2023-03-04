@@ -27,7 +27,7 @@ jobs:
     steps:
       - run:
           name: deploy to aws
-          command: echo app deployed success ...
+          command: echo app deployed success $MY_KOMBO
 
 
 
